@@ -2,13 +2,13 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "Slobot00",
-    "password": "12345",
-    "type": "plaing"
+    "password": "",
+    "type": "offline"
+  },
   "server": {
-    },
-    "ip": "games20011241-wxaJ.aternos.me",
+    "ip": " games20011241-wxaJ.aternos.me:35545",
     "port": 35545,
-    "version": "1.21.11"
+    "version": "",
     "try-creative": false
   },
   "position": {
@@ -23,8 +23,8 @@
       "password": "chalol78"
     },
     "anti-afk": {
-      "enabled": true,
-      "sneak": true
+      "enabled": false,
+      "sneak": false
     },
     "chat-messages": {
       "enabled": true,
