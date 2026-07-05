@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "games20011241-wxaJ.aternos.me",
-    "port": 35545,
+    "ip": "vampir20011241.aternos.me",
+    "port": 30119,
     "version": "",
     "try-creative": false
   },
